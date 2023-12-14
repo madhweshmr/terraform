@@ -1,2 +1,2 @@
 # terraform
-This repo is maintained for learning Terraform
+Terraform code files and resources
